@@ -1,0 +1,14 @@
+C:\Users\birad\OneDrive\Desktop\New folder (2)\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\net8.0\SalesTaxCalculator.exe
+C:\Users\birad\OneDrive\Desktop\New folder (2)\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\net8.0\SalesTaxCalculator.deps.json
+C:\Users\birad\OneDrive\Desktop\New folder (2)\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\net8.0\SalesTaxCalculator.runtimeconfig.json
+C:\Users\birad\OneDrive\Desktop\New folder (2)\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\net8.0\SalesTaxCalculator.dll
+C:\Users\birad\OneDrive\Desktop\New folder (2)\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\net8.0\SalesTaxCalculator.pdb
+C:\Users\birad\OneDrive\Desktop\New folder (2)\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net8.0\SalesTaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\birad\OneDrive\Desktop\New folder (2)\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net8.0\SalesTaxCalculator.AssemblyInfoInputs.cache
+C:\Users\birad\OneDrive\Desktop\New folder (2)\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net8.0\SalesTaxCalculator.AssemblyInfo.cs
+C:\Users\birad\OneDrive\Desktop\New folder (2)\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net8.0\SalesTaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\birad\OneDrive\Desktop\New folder (2)\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net8.0\SalesTaxCalculator.dll
+C:\Users\birad\OneDrive\Desktop\New folder (2)\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net8.0\refint\SalesTaxCalculator.dll
+C:\Users\birad\OneDrive\Desktop\New folder (2)\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net8.0\SalesTaxCalculator.pdb
+C:\Users\birad\OneDrive\Desktop\New folder (2)\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net8.0\SalesTaxCalculator.genruntimeconfig.cache
+C:\Users\birad\OneDrive\Desktop\New folder (2)\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net8.0\ref\SalesTaxCalculator.dll
